@@ -1,6 +1,8 @@
 # chromedriver_auto_installer_dev
 
 test
+test2
+
 How make debug and test and make contribution to the library:
 
 1. Use this tempate
