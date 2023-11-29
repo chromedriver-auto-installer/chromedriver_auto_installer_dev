@@ -1,0 +1,4 @@
+[submodule "lib/chromedriver_auto_installer"]
+	path = lib/chromedriver_auto_installer
+	url = https://github.com/chromedriver-auto-installer/chromedriver_auto_installer.git
+	branch = main
