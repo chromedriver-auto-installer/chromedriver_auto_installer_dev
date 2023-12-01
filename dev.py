@@ -1,8 +1,8 @@
 from selenium import webdriver
-import chromedriver_autoinstaller
+import chromedriver_auto_installer
 
 
-chromedriver_autoinstaller.install()  
+chromedriver_auto_installer.install()
 
 driver = webdriver.Chrome()
 driver.get("http://www.python.org")
